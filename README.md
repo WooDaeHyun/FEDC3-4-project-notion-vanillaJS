@@ -4,6 +4,7 @@
 [o] 화면 좌측에 Root Documents를 불러오는 API를 통해 root Documents를 렌더링합니다.
 
 [o] Root Documents를 클릭하면 오른쪽 편집기 영역에 해당 Documents의 Content를 렌더링 합니다.
+
 [o] 해당 Root Document에 하위 Document가 있는 경우 , 해당 Document 아래에 트리 형태로 렌더링 합니다.
 
 [o] Document Tree에서 각 Document 우측에는 + 버튼이 있습니다. 해당 버튼을 클릭하면 , 클릭한 Document의 하위 Document로 새
