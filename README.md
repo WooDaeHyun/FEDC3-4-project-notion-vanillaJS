@@ -19,7 +19,7 @@ Document를 생성하고 편집화면으로 넘깁니다.
 ## 👩‍💻 요구 사항과 구현 내용
 
 
-https://user-images.githubusercontent.com/113018070/202433431-375d5f3a-e116-4014-ba7c-de3e54e95b3c.mov
+https://user-images.githubusercontent.com/113018070/202434134-6a96ee2e-6290-49a5-be5e-dd0fc6d00c36.mov
 
 
 ## 부족했던 점
