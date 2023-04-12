@@ -10,7 +10,7 @@ export default function PostLists({ $target, initialState = [] }) {
   this.state = [
     {
       id: 1,
-      title: "아이우에요",
+      title: "제목 없음",
     },
   ];
 
