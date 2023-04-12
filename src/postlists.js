@@ -67,5 +67,3 @@ export default function PostLists({ $target, initialState = [] }) {
 
   this.render();
 }
-  this.render();
-}

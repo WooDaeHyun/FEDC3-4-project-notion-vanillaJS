@@ -46,4 +46,3 @@ export const renderLogic = (arr) => {
   </ul>
   `;
 };
-
